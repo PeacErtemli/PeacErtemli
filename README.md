@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PeacErtemli
-- 👀 I’m interested in data science.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on data science and big data with Python.
+- 👀 I’m interested in Python and automation.
+- 🌱 I know Python. Currently learning Flutter.
+- 💞️ I’m especially looking to collaborate on Python jobs!
 - 📫 How to reach me, ertemlibaris@gmail.com / https://www.linkedin.com/in/barisertemli
 
 <!---
